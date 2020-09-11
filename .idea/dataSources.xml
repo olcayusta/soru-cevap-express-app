@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="soru_cevap_beta@localhost" uuid="ab319a43-07ef-4ad1-b626-dede59005da3">
+    <data-source source="LOCAL" name="qa_beta@localhost" uuid="cf554568-2e98-4343-8b9b-111a20b6e429">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:5432/soru_cevap_beta</jdbc-url>
+      <jdbc-url>jdbc:postgresql://localhost:5432/qa_beta</jdbc-url>
     </data-source>
   </component>
 </project>
